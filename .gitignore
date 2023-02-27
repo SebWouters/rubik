@@ -1,0 +1,8 @@
+rubik
+compile.sh
+obj
+build
+*.7z
+*.gz
+*.zip
+
